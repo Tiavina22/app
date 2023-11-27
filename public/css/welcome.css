@@ -1,0 +1,19 @@
+@import url('font.css');
+*,body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: "Quicksand";
+}
+body{
+    margin-left: 15px;
+    margin-left: 15px;
+    height: 100vh;
+    background-image: url('../../src/images/backgroundloading.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hidden {
+    display: none;
+}

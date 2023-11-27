@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Quicksand';
+    src: url('../../src/fonts/Quicksand/static/Quicksand-Light.ttf');
+  }
+  
+  @font-face {
+    font-family: 'Quicksand Bold';
+    src: url('../../src/fonts/Quicksand/static/Quicksand-Bold.ttf');
+}
